@@ -1,0 +1,7 @@
+# files you want to untrack
+*.pyc
+*.idea
+__pycache__
+truck_lpr_demo.py
+
+
